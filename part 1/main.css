@@ -69,7 +69,16 @@ a:visited{
 body > div> table {
   font-size: 0.6em
 }
-html{
-  /* background-color: #16a085 */
+/* for images */
+img{
+  border-radius: 40px
+}
+/* for illiad in specific to images*/
+div.tei.tei-figure {
+  border-radius: 50px
+}
+/* for illiad in specific to images captions*/
 
+div.tei.tei-head{
+  font-size: 1.4em
 }
