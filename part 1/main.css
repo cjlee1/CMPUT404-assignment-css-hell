@@ -38,11 +38,11 @@ p{
 p.toc {
   text-align: center;
 }
-p.tei tei-index tei-index-toc {
+p.tei.tei-index.tei-index-toc {
   text-align: center;
 
 }
- p.tei tei-index tei-index-toc a{
+ p.tei.tei-index.tei-index-toc a{
    font-size: 0.90em;
    color: saddlebrown;
  }
