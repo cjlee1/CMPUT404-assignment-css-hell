@@ -12,6 +12,17 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Modifications to Gutenberg html FILE
+=================
+In each project gutenberg html file, I put the line <link rel="stylesheet" type="text/css" href="main.css"> 
+right before the </head> so that it would use the css file I created.
+
+External Source Code:
+=================
+* https://www.w3schools.com/css/css_navbar.asp
+* https://www.w3schools.com/css/css_link.asp
+* https://dev.to/claireparker/how-to-make-a-sticky-sidebar-with-two-lines-of-css-2ki7
+
 License/Copyright
 =================
 Contributions made by: 
@@ -19,10 +30,15 @@ Contributions made by:
 * Calvin Lee
 
 Collaboration from: 
+* shchau asked him how to do licensing
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
+
+Textual content is copyright Calvin LEe (C) 2019 under the CC-BY-SD
+4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2019 Calvin Lee visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 

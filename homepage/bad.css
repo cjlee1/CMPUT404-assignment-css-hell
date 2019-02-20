@@ -1,0 +1,107 @@
+body {
+  background-image: url(https://us.123rf.com/450wm/orensila/orensila1512/orensila151200009/49501499-%EB%B3%84%EC%9D%B4-%EB%B9%9B%EB%82%98%EB%8A%94-%ED%95%98%EB%8A%98-%EB%B0%A4%ED%95%98%EB%8A%98%EC%97%90-%EB%B3%84%EC%9D%B4-%EB%B2%A1%ED%84%B0-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%85%98.jpg?ver=6);
+  margin: 0;
+  background-color: black;
+  color:red;
+
+}
+#profilepic {
+  float:right;
+  padding-right: 5em;
+  max-width:15%;
+  min-height: 4em;
+}
+.navbar{
+  width: 87%;
+  height: 1.8em;
+  margin:auto;
+  padding-bottom: 1.2em;
+}
+/* ----------------------------------------------------- */
+/* author: w3schools */
+/* date: feb,20,2019 */
+/* title: Horizontal Navigation Bar Examples */
+/* source code? */
+/* got this code from https://www.w3schools.com/css/css_navbar.asp */
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navbar li a:hover {
+  background-color: #000;
+}
+/* ----------------------------------------------------- */
+
+/*banner*/
+.banner {
+  background-color: black;
+  height: 6em;
+  margin: auto;
+  padding-top: 10px;
+  width: 87%;
+  background-color: transparent;
+
+}
+h1{
+  text-align: center;
+  color: cyan;
+}
+h2{
+  color:pink
+}
+h3{
+  color:salmon
+}
+/* info *//* ----------------------------------------------------- */
+/* author: claire Parker-Jones
+/* date: feb,20,2019 */
+/* title: How to make a sticky sidebar with two lines of CSS  */
+/* source code? */
+/* got this code from  https://dev.to/claireparker/how-to-make-a-sticky-sidebar-with-two-lines-of-css-2ki7 */
+.info{
+  display: flex;
+  justify-content: space-between;
+  /* padding-top: 1px; */
+padding: 1em;
+  margin: auto;
+  width: 85%;
+  background: black ;
+  background-color: transparent;
+
+}
+.main{
+  max-width:100%;
+
+
+}
+.sidebar{
+  width: 35%;
+  height:23vh;
+  border:3px solid #111;
+  padding: 15px;
+  background-color: red;
+}
+li{
+  color:yellow
+}
+footer{
+  width: 87%;
+  margin: auto;
+}
