@@ -14,7 +14,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Modifications to Gutenberg html FILE
 =================
-In each project gutenberg html file, I put the line <link rel="stylesheet" type="text/css" href="main.css"> 
+In each project gutenberg html file, I put the line "<link rel="stylesheet" type="text/css" href="main.css"> "
 right before the </head> so that it would use the css file I created.
 
 External Source Code:
