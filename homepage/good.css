@@ -42,7 +42,7 @@ body {
 }
 /* Change the link color to #111 (black) on hover */
 .navbar li a:hover {
-  background-color: #000;
+  background-color: #DCDCDC;
 }
 /* ----------------------------------------------------- */
 
@@ -76,9 +76,15 @@ padding: 1em;
 }
 .sidebar{
   width: 35%;
-  height:23vh;
+  height:100vh;
   border:3px solid #111;
   padding: 15px;
+}
+.sidebar li a{
+  color:black;
+}
+.sidebar li a:hover {
+  background-color: #DCDCDC;
 }
 footer{
   width: 87%;
